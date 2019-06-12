@@ -31,7 +31,7 @@ module.exports = {
     extract: false
   },
 
-  publicPath: './',
+  publicPath: './docs',
   outputDir: 'docs',
   runtimeCompiler: undefined,
   productionSourceMap: undefined,
