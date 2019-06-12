@@ -27,11 +27,11 @@ export default {
 
 <style scoped>
 	.drop-down {
-	  transform: rotate(-180deg);
-	  transition: all .6s;
+		transform: rotate(-180deg);
+		transition: all .6s;
 	}
 	.drop-up {
-	  transform: rotate(0deg);
-	  transition: all .6s;
+		transform: rotate(0deg);
+		transition: all .6s;
 	}
 </style>

@@ -16,7 +16,7 @@
     <svg v-if="icon != '' || circle" class="icon" :style="{color: typeInclude ? '#fff' : iconColor, fontSize: size}" aria-hidden="true" >
       <use :xlink:href="iconName"></use>
     </svg>
-			<slot/>
+			<slot></slot>
 		</span>
 		
 	</button>
